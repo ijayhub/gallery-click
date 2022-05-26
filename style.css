@@ -10,7 +10,6 @@
 .all-img{
     display:flex;
     flex-direction: column;
-
 }
 .all-img img{
     height:20vh;

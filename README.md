@@ -26,8 +26,6 @@ Repo_name:
 
 Hosted link: 
 
-project_title: Gallery-click
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
@@ -36,7 +34,7 @@ In building this project i used the following :
 > HTML
 > CSS (Media Query, FLex box)
 > JavaScript
-> Live sever to preview the project locally on my computer.
+> Live sever to preview the project locally on my computer
 > Text Editor was visual studio code.
 ```
 <p align="right">(<a href="#top">back to top</a>)</p>
