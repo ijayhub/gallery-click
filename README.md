@@ -8,23 +8,18 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
+        <a href="#about-the-project">About The Project</a>
+        <ul>
           <li><a href="#built-with">Built With</a></li>
           <li><a href="#Running-this-project">Running this project</a></li>
-          <li><a href="#Dependencies">Dependencies</a></li>
-         </ul>
+        </ul>
     </li>      
   </ol>
 </details>
 
-## About The Project
+Repo_name: https://github.com/ijayhub/gallery-click
 
-<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-
-Repo_name: 
-
-Hosted link: 
+Hosted link: https://ijayhub.github.io/gallery-click/
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -43,8 +38,6 @@ In building this project i used the following :
 
 Create a project directory and it should be your necessary files(html,css,javascript) and folders(images)
 
-### Dependencies
 
-This website is best viewed on any browser.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
